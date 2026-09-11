@@ -1,4 +1,3 @@
 # CORPORATE-INTERNSHIP-AI-SOLUTION
 # Project Overview 
-
 AI-Enabled Election Operations Intelligence Framework — A Python-based prototype developed during my Corporate Internship Program at Kantar to improve real-time visibility in election reporting operations. The solution combines rule-based automation, operational dashboards, exception detection, SLA monitoring, and an LLM-powered Election GPT assistant to help Team Leaders identify reporting delays, missing counting rounds, and operational priorities. Built using Jupyter Notebook, Python, Pandas, interactive visualization, and AI-assisted natural-language querying, the prototype demonstrates how AI and automation can support faster operational decision-making while keeping final validation and decisions with human managers.
